@@ -1,0 +1,21 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  theatre_id: 1
+  show_time: MyString
+  web_url: MyString
+  run_time: 1
+  imax: false
+  etx: false
+  threeD: false
+
+two:
+  name: MyString
+  theatre_id: 1
+  show_time: MyString
+  web_url: MyString
+  run_time: 1
+  imax: false
+  etx: false
+  threeD: false
